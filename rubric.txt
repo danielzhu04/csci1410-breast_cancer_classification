@@ -1,0 +1,10 @@
+Autograded
+----KNN [40]
+--------train and predict   [30]
+--------evaluate            [10]
+----perceptron [20]
+--------train and predict   [10]
+--------evaluate            [10]
+
+Total [60]
+Extra Credit [5]
